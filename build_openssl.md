@@ -22,4 +22,4 @@ nmake
 nmake install
 ```
 
-将C:\Program Files\Openssl中的include和lib目录复制到FFmpeg中，进入下一步的编译步骤。
+将C:\Program Files\Openssl中的include和lib目录复制到FFmpeg中，将lib中的lib文件改为ssl.lib和crytpo.lib，然后进入下一步的编译步骤。
