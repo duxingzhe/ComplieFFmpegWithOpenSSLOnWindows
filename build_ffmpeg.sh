@@ -39,7 +39,7 @@ SSL_EXTRA_CFLAGS="-I$OPENSSL_INCLUDE_DIR"
         --disable-indevs \
         --disable-outdevs \
         --disable-devices \
-        --disable-asm \
+        --enable-asm \
         --enable-shared \
         --enable-small \
         --enable-encoder=png \
