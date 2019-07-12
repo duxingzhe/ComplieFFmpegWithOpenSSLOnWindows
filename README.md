@@ -9,3 +9,7 @@ FFmpeg 4.1.3
 OpensSL 1.1.1c
 
 Compiled Successfully
+
+FFmpeg Windows下环境搭建
+
+[https://blog.csdn.net/longji/article/details/54891236](https://blog.csdn.net/longji/article/details/54891236)
